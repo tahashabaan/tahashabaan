@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tahashabaan
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning ... web-development
+- 🌱 I’m a backend developer  and familiar with front end (React JS)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... tahashabaan48@gmail.com
 
