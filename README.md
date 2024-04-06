@@ -3,6 +3,7 @@
 - 🌱 I’m a backend developer  and familiar with front end (React JS)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... tahashabaan48@gmail.com
+- my portfolio and:: https://main--taha-shabaan-profile.netlify.app/
 
 <!---
 tahashabaan/tahashabaan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
