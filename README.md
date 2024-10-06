@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I am a passionate developer with a keen interest i
 
 👩🏻‍🎓 I have a Bachelor's degree in Computer Science from Beni Suef University.
 
-📖 I `m intersted problem solving and databse design 
+📖 I `m interested problem solving and database design 
 
 🌱 I’m currently learning Nest.js and exploring Distributed Systems and Microservices Architecture.
 
@@ -37,7 +37,7 @@ Here are some of the projects I have worked on:
    - [View Project](https://github.com/anjazha/anjezha.git) (replace with actual link)
 
 2. **E-Commerce Platform**: A comprehensive e-commerce application that allows users to browse and purchase products.
-   - Technologies: Node.js, Mongoose, Express.js, React
+   - Technologies: Node.js, Mongoose, Express.js
    - [View Project](https://github.com/tahashabaan/ecommerce-wep-app) (replace with actual link)
 
 
